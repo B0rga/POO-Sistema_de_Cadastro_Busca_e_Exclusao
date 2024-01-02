@@ -1,0 +1,14 @@
+C:\C#\Projetos02\Projeto29\bin\Debug\net8.0\Projeto29.exe
+C:\C#\Projetos02\Projeto29\bin\Debug\net8.0\Projeto29.deps.json
+C:\C#\Projetos02\Projeto29\bin\Debug\net8.0\Projeto29.runtimeconfig.json
+C:\C#\Projetos02\Projeto29\bin\Debug\net8.0\Projeto29.dll
+C:\C#\Projetos02\Projeto29\bin\Debug\net8.0\Projeto29.pdb
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.AssemblyInfoInputs.cache
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.AssemblyInfo.cs
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.csproj.CoreCompileInputs.cache
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.dll
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\refint\Projeto29.dll
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.pdb
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\Projeto29.genruntimeconfig.cache
+C:\C#\Projetos02\Projeto29\obj\Debug\net8.0\ref\Projeto29.dll
